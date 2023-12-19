@@ -1,0 +1,23 @@
+.navbar {
+    display: inline-block;
+    background-color: white;
+    width: 100%;
+    max-width: 100%;
+    padding: 0 5% 0 5%;
+    box-sizing: border-box;
+}
+
+.navbar-logo {
+    float: left;
+    color: #233348;
+    font-family: Muli;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.navbar-item {
+    float: right;
+    margin: 30px 10px 0 10px;
+}
