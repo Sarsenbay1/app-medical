@@ -1,10 +1,21 @@
 .navbar {
     display: inline-block;
-    background-color: white;
+    background-color: ghostwhite;
     width: 100%;
     max-width: 100%;
-    padding: 0 5% 0 5%;
+    padding: 0 10% 0 10%;
     box-sizing: border-box;
+    vertical-align: middle;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.navbar-logo-img {
+    width: 48px;
+    height: 48px;
+    margin-top: 5px;
+    margin-right: 10px;
+    float: left;
 }
 
 .navbar-logo {
@@ -17,7 +28,21 @@
     line-height: normal;
 }
 
+.navlinks-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    overflow: auto;
+}
+
 .navbar-item {
-    float: right;
-    margin: 30px 10px 0 10px;
+    margin-right: auto;
+    margin: 15px 70px 0 10px;
+    color: #8f8a9a;
+    font-family: Muli;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
 }
