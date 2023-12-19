@@ -10,7 +10,7 @@ function App() {
     return (
         <>
             <Navbar />
-            <p>bebra</p>
+            <p>text</p>
         </>
     );
 }
