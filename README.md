@@ -1,6 +1,7 @@
 # React + TypeScript + Vite
 
-![Alt text](image.png)
+![image](https://github.com/Sarsenbaev1/app-medical/assets/124807755/d6288ef9-3738-4a78-b029-0fba84a1c4e6)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
