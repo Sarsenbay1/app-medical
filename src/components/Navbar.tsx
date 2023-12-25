@@ -1,10 +1,11 @@
-import '../styles/Navbar.css';
+import "../styles/Navbar.css"
 import logoSmall from '/logo-image.png';
 
-function Navbar() {
-    return (
+function Navbar()
+{
+    return(
         <div className="navbar">
-            <img className="navbar-logo-img" src={logoSmall} />
+            <img className="navbar-logo-img" src={logoSmall}/>
             <h1 className="navbar-logo">HealthCare</h1>
             <div className="navlinks-container">
                 <b className="navbar-item">Home</b>

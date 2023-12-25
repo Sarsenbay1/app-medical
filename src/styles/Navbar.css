@@ -1,4 +1,5 @@
-.navbar {
+.navbar
+{
     display: inline-block;
     background-color: white;
     width: 100%;
@@ -10,7 +11,8 @@
     padding-bottom: 150px;
 }
 
-.navbar-logo-img {
+.navbar-logo-img
+{
     width: 48px;
     height: 48px;
     margin-top: 5px;
@@ -18,29 +20,32 @@
     float: left;
 }
 
-.navbar-logo {
+.navbar-logo
+{
     float: left;
     color: #233348;
-    font-family: Muli;
+    font-family: Mulish;
     font-size: 24px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
 }
 
-.navlinks-container {
+.navlinks-container
+{
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
     align-items: center;
-    overflow: auto;
+    overflow:auto;
 }
 
-.navbar-item {
+.navbar-item
+{
     margin-right: auto;
     margin: 15px 70px 0 10px;
-    color: #8f8a9a;
-    font-family: Muli;
+    color: #8F8A9A;
+    font-family: Mulish;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
